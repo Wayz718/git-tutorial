@@ -5,3 +5,5 @@
 - feature-D(new)
 - feature-D(update by another developer)
 - fix-D
+- feature-E
+
